@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{503B9FD0-62F3-4911-9204-CF23AD6F3EA4}|Client\\Client.csproj|c:\\users\\anish kulkarni\\onedrive\\documents\\projects\\keyvaluehash\\client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B9FD0-62F3-4911-9204-CF23AD6F3EA4}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B9FD0-62F3-4911-9204-CF23AD6F3EA4}|Client\\Client.csproj|c:\\users\\anish kulkarni\\onedrive\\documents\\projects\\keyvaluehash\\client\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{503B9FD0-62F3-4911-9204-CF23AD6F3EA4}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\Client\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\Client\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-11T14:05:55.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\Client\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\Client\\Client\\Program.cs*",
+              "RelativeToolTip": "Client\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T14:03:33.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

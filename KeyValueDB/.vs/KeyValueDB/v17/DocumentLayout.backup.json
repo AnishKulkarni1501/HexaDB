@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D35CD65-71DD-4034-AE0A-EDA4CF58185A}|KeyValueDB\\KeyValueDB.csproj|c:\\users\\anish kulkarni\\onedrive\\documents\\projects\\keyvaluehash\\keyvaluedb\\keyvaluedb\\services\\keyvaluegrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D35CD65-71DD-4034-AE0A-EDA4CF58185A}|KeyValueDB\\KeyValueDB.csproj|solutionrelative:keyvaluedb\\services\\keyvaluegrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D35CD65-71DD-4034-AE0A-EDA4CF58185A}|KeyValueDB\\KeyValueDB.csproj|c:\\users\\anish kulkarni\\onedrive\\documents\\projects\\keyvaluehash\\keyvaluedb\\keyvaluedb\\storage\\keyvaluestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D35CD65-71DD-4034-AE0A-EDA4CF58185A}|KeyValueDB\\KeyValueDB.csproj|solutionrelative:keyvaluedb\\storage\\keyvaluestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D35CD65-71DD-4034-AE0A-EDA4CF58185A}|KeyValueDB\\KeyValueDB.csproj|c:\\users\\anish kulkarni\\onedrive\\documents\\projects\\keyvaluehash\\keyvaluedb\\keyvaluedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D35CD65-71DD-4034-AE0A-EDA4CF58185A}|KeyValueDB\\KeyValueDB.csproj|solutionrelative:keyvaluedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D35CD65-71DD-4034-AE0A-EDA4CF58185A}|KeyValueDB\\KeyValueDB.csproj|c:\\users\\anish kulkarni\\onedrive\\documents\\projects\\keyvaluehash\\keyvaluedb\\keyvaluedb\\keyvaluedb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D35CD65-71DD-4034-AE0A-EDA4CF58185A}|KeyValueDB\\KeyValueDB.csproj|solutionrelative:keyvaluedb\\keyvaluedb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\KeyValueDB\\Program.cs",
+              "RelativeDocumentMoniker": "KeyValueDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\KeyValueDB\\Program.cs",
+              "RelativeToolTip": "KeyValueDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:57:42.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyValueStore.cs",
+              "DocumentMoniker": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\KeyValueDB\\Storage\\KeyValueStore.cs",
+              "RelativeDocumentMoniker": "KeyValueDB\\Storage\\KeyValueStore.cs",
+              "ToolTip": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\KeyValueDB\\Storage\\KeyValueStore.cs",
+              "RelativeToolTip": "KeyValueDB\\Storage\\KeyValueStore.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:09:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyValueGrpcService.cs",
+              "DocumentMoniker": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\KeyValueDB\\Services\\KeyValueGrpcService.cs",
+              "RelativeDocumentMoniker": "KeyValueDB\\Services\\KeyValueGrpcService.cs",
+              "ToolTip": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\KeyValueDB\\Services\\KeyValueGrpcService.cs",
+              "RelativeToolTip": "KeyValueDB\\Services\\KeyValueGrpcService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T13:08:40.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyValueDB.csproj",
+              "DocumentMoniker": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\KeyValueDB\\KeyValueDB.csproj",
+              "RelativeDocumentMoniker": "KeyValueDB\\KeyValueDB.csproj",
+              "ToolTip": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\KeyValueDB\\KeyValueDB\\KeyValueDB.csproj",
+              "RelativeToolTip": "KeyValueDB\\KeyValueDB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-11T13:07:02.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

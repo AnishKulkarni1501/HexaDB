@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIzJw0pBIkY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anish Kulkarni\\OneDrive\\Documents\\Projects\\KeyValueHash\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\google.protobuf\\3.35.1\\google.protobuf.3.35.1.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\grpc.core.api\\2.83.0\\grpc.core.api.2.83.0.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\grpc.net.client\\2.83.0\\grpc.net.client.2.83.0.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\grpc.net.common\\2.83.0\\grpc.net.common.2.83.0.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\grpc.tools\\2.83.0\\grpc.tools.2.83.0.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Anish Kulkarni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
